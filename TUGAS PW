@@ -1,0 +1,78 @@
+<html>
+<head>
+    <style>
+        /* CSS inline */
+        header {
+            background-color: red;
+            padding: 10px;
+        }
+        
+        nav {
+            background-color: pink;
+            padding: 10px;
+        }
+
+        article {
+            background-color: #FFA500; /* Orange tua */
+            padding: 10px;
+            width: 70%;
+        }
+
+        section {
+            background-color: #FFD700; /* Orange muda */
+            margin: 10px 0;
+        }
+
+        aside {
+            background-color: blue;
+            padding: 10px;
+            width: 30%;
+        }
+
+        footer {
+            background-color: yellow;
+            padding: 10px;
+        }
+
+        .main{
+            display:flex;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>MUHAMMAD ZIDAN</a></h1>
+    </header>
+
+    <nav>
+        <h2>SI07</a></h2>
+    </nav>
+
+
+    <div class="main">
+        <article>
+            <h2>Article</h2>
+            <section>
+                <h3>https://www.balitbangham.go.id/detailpost/waspadai-pergaulan-bebas-bagi-generasi-bangsa</h3>
+            </section>
+            <section>
+                <h3>Jangan Gadaikan Prestasimu untuk Kenikmatan Semu</h3>
+            </section>
+            <section>
+                <h3>Pendidikan dan Remaja
+                    Membantu anak dan remaja menjadi yang terbaik sesuai kemampuan mereka</h3>
+            </section>
+        </article>
+    
+        <aside>
+            <h2>SILAKAN DILIHAT </h2>
+        </aside>
+    </div>
+
+    
+
+    <footer>
+        <h2>TERIMA KASIH </h2>
+    </footer>
+</body>
+</html>
